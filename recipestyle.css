@@ -1,0 +1,13 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #a0e6bd;
+ }
+
+body {
+    color: #CE3189;
+    text-align: center;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
